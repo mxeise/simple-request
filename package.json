@@ -1,0 +1,17 @@
+{
+  "name": "simple-request",
+  "version": "1.0.0",
+  "description": "Simple request to test network",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Skipping build script'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maximilian Eise",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
